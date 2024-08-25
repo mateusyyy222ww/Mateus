@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://cdn.pixabay.com/video/2023/07/21/172655-847860558_large.mp4)"
+
   
 ###
